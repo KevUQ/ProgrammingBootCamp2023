@@ -9,7 +9,8 @@ import time
 from math import *
 
 start = time.time()
-new_list = [x**2 for x in range(10**8)]
+new_list = [x**2 for x in range(10**7)]
 end = time.time()
 
 sqrt(2)
+print(end)
