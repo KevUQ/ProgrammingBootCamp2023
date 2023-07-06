@@ -37,6 +37,7 @@ for number in numbers:
         
     else:
         pass
+    
 print(smallest_number, largest_number)
 print(sorted(numbers))
 
